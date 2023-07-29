@@ -1,6 +1,6 @@
 # flutternotaapp
 
-A new Flutter project.
+Se realiza autenticación usando los servicios de firebase.
 
 ## Getting Started
 
