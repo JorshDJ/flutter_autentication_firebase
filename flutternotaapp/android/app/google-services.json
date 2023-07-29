@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "718862787418",
+    "project_id": "bibliotecacleanarquitecture",
+    "storage_bucket": "bibliotecacleanarquitecture.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718862787418:android:b3a6b15285dbaa6c314963",
+        "android_client_info": {
+          "package_name": "com.example.flutternotaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718862787418-7n2e9d6fvjiqt9aks3tp601pvg52bvfk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbstsoHTEo46KHOKa24bxTzIxsoJwW498"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718862787418-7n2e9d6fvjiqt9aks3tp601pvg52bvfk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
